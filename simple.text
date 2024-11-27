@@ -1,0 +1,8 @@
+
+https://image.tmdb.org/t/p/w500/MOVIE_PATH
+
+https://api.themoviedb.org/3/movie/now_playing?api_key=591658d4c2da5790f7421b2a13859ae1
+
+https://api.themoviedb.org/3/account/{account_id}
+
+https://api.themoviedb.org/3/search/movie?query=SEARCH_DATA&api_key=591658d4c2da5790f7421b2a13859ae1
